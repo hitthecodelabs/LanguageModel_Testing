@@ -1,6 +1,6 @@
 # Model Testing Implementation
 
-This project tests the capabilities of a large language model using various prompts. The model used are `gemini-1.5-pro-001`, `gemini-1.5-flash-001` and `gpt-4o-2024-05-13` from Vertex AI. The tests include mathematical problem solving, logical reasoning, creative writing, scientific explanations, historical analysis, multilingual translation, idiomatic expression explanations, statistical analysis, machine learning concepts, and ethical dilemmas.
+This project tests the capabilities of a large language model using various prompts. The model used are `gemini-1.5-pro-001` and from Google and `gemini-1.5-flash-001` from OpenAI. The tests include mathematical problem solving, logical reasoning, creative writing, scientific explanations, historical analysis, multilingual translation, idiomatic expression explanations, statistical analysis, machine learning concepts, and ethical dilemmas.
 
 ## Setup
 
